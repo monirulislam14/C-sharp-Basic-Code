@@ -1,0 +1,7 @@
+E:\c# code\Min_max_using_list\Min_max_using_list\obj\Debug\Min_max_using_list.csprojAssemblyReference.cache
+E:\c# code\Min_max_using_list\Min_max_using_list\obj\Debug\Min_max_using_list.csproj.CoreCompileInputs.cache
+E:\c# code\Min_max_using_list\Min_max_using_list\bin\Debug\Min_max_using_list.exe.config
+E:\c# code\Min_max_using_list\Min_max_using_list\bin\Debug\Min_max_using_list.exe
+E:\c# code\Min_max_using_list\Min_max_using_list\bin\Debug\Min_max_using_list.pdb
+E:\c# code\Min_max_using_list\Min_max_using_list\obj\Debug\Min_max_using_list.exe
+E:\c# code\Min_max_using_list\Min_max_using_list\obj\Debug\Min_max_using_list.pdb

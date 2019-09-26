@@ -1,0 +1,7 @@
+E:\c# code\nameAndGrade\nameAndGrade\obj\Debug\nameAndGrade.csprojAssemblyReference.cache
+E:\c# code\nameAndGrade\nameAndGrade\obj\Debug\nameAndGrade.csproj.CoreCompileInputs.cache
+E:\c# code\nameAndGrade\nameAndGrade\bin\Debug\nameAndGrade.exe.config
+E:\c# code\nameAndGrade\nameAndGrade\bin\Debug\nameAndGrade.exe
+E:\c# code\nameAndGrade\nameAndGrade\bin\Debug\nameAndGrade.pdb
+E:\c# code\nameAndGrade\nameAndGrade\obj\Debug\nameAndGrade.exe
+E:\c# code\nameAndGrade\nameAndGrade\obj\Debug\nameAndGrade.pdb

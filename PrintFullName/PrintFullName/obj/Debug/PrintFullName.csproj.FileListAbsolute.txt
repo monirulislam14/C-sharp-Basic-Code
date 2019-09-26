@@ -1,0 +1,7 @@
+E:\c# code\PrintFullName\PrintFullName\bin\Debug\PrintFullName.exe.config
+E:\c# code\PrintFullName\PrintFullName\bin\Debug\PrintFullName.exe
+E:\c# code\PrintFullName\PrintFullName\bin\Debug\PrintFullName.pdb
+E:\c# code\PrintFullName\PrintFullName\obj\Debug\PrintFullName.csprojAssemblyReference.cache
+E:\c# code\PrintFullName\PrintFullName\obj\Debug\PrintFullName.csproj.CoreCompileInputs.cache
+E:\c# code\PrintFullName\PrintFullName\obj\Debug\PrintFullName.exe
+E:\c# code\PrintFullName\PrintFullName\obj\Debug\PrintFullName.pdb

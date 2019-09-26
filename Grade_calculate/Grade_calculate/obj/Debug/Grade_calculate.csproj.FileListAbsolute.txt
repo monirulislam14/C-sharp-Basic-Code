@@ -1,0 +1,7 @@
+E:\c# code\Grade_calculate\Grade_calculate\obj\Debug\Grade_calculate.csprojAssemblyReference.cache
+E:\c# code\Grade_calculate\Grade_calculate\obj\Debug\Grade_calculate.csproj.CoreCompileInputs.cache
+E:\c# code\Grade_calculate\Grade_calculate\bin\Debug\Grade_calculate.exe.config
+E:\c# code\Grade_calculate\Grade_calculate\bin\Debug\Grade_calculate.exe
+E:\c# code\Grade_calculate\Grade_calculate\bin\Debug\Grade_calculate.pdb
+E:\c# code\Grade_calculate\Grade_calculate\obj\Debug\Grade_calculate.exe
+E:\c# code\Grade_calculate\Grade_calculate\obj\Debug\Grade_calculate.pdb

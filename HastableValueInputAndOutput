@@ -1,0 +1,36 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Collections;
+namespace hashtable_contain_value
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Hashtable ht = new Hashtable();
+
+            int size;
+            size = Convert.ToInt32(Console.ReadLine());
+            for (int i = 1; i <= size; i++)
+            {
+                ht.Add(Console.ReadLine(), Console.ReadLine());
+            }
+            //ICollection key = ht.Keys;
+          
+                
+          
+
+            // Get a collection of the keys.
+            
+
+            foreach (string k in ht.Keys)
+            {
+                Console.WriteLine(k + ": " + ht[k]);
+            }
+            Console.ReadKey();
+        }
+    }
+}

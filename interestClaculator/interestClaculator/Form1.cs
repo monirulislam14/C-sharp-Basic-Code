@@ -17,7 +17,9 @@ namespace interestClaculator
         {
             InitializeComponent();
             ShowFormulaLebel.Text = "";
-           
+          
+
+
         }
         private void InterestCalculator_Load(object sender, EventArgs e)
         {
@@ -48,6 +50,7 @@ namespace interestClaculator
                 RateLebel.Text = "Rate (R): %";
                 TimeLebel.Text = "Time (t):";
                 TimecomboBox.Visible = true;
+                label1.Visible = true;
 
             }
           else if(formulaComboBox.Text == "Principal (P)")
@@ -57,6 +60,7 @@ namespace interestClaculator
                 RateLebel.Text = "Rate (R): %";
                 TimeLebel.Text = "Time (t):";
                 TimecomboBox.Visible = true;
+                label1.Visible = true;
             }
             else if(formulaComboBox.Text == "Rate (R)")
             {
@@ -65,6 +69,7 @@ namespace interestClaculator
                 RateLebel.Text = "Principal (P): $";
                 TimeLebel.Text = "Time (t):";
                 TimecomboBox.Visible =true;
+                label1.Visible = false;
             }
             else if(formulaComboBox.Text == "Time Period (t)")
             {
@@ -75,6 +80,7 @@ namespace interestClaculator
                 RateLebel.Text = "Principal (P): $";
                 TimeLebel.Text = "Rate (R): %";
                 TimecomboBox.Visible =false;
+                label1.Visible = false;
 
             }
         }
@@ -159,10 +165,11 @@ namespace interestClaculator
             PrincipalTextBox.Clear();
             RateTextBox.Clear();
             TimeTextBox.Clear();
-            ShowFormulaLebel.Visible = false ;
-            formulaComboBox.Visible = false;
-            TimecomboBox.Visible = false;
+           
+     
+         
             ShowAnswerTextBox.Clear();
+
         }
     }
 }

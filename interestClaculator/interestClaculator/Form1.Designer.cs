@@ -44,6 +44,7 @@
             this.CalculateButton = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
             this.ShowAnswerTextBox = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // formulaComboBox
@@ -60,18 +61,20 @@
             // SolveForLebel
             // 
             this.SolveForLebel.AutoSize = true;
+            this.SolveForLebel.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.SolveForLebel.Location = new System.Drawing.Point(213, 59);
             this.SolveForLebel.Name = "SolveForLebel";
-            this.SolveForLebel.Size = new System.Drawing.Size(52, 13);
+            this.SolveForLebel.Size = new System.Drawing.Size(61, 13);
             this.SolveForLebel.TabIndex = 1;
             this.SolveForLebel.Text = "Solve For";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(246, 89);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(39, 13);
+            this.label2.Size = new System.Drawing.Size(44, 13);
             this.label2.TabIndex = 2;
             this.label2.Text = "Where";
             // 
@@ -107,6 +110,7 @@
             // TimecomboBox
             // 
             this.TimecomboBox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.TimecomboBox.ForeColor = System.Drawing.SystemColors.Desktop;
             this.TimecomboBox.FormattingEnabled = true;
             this.TimecomboBox.Location = new System.Drawing.Point(292, 229);
             this.TimecomboBox.Name = "TimecomboBox";
@@ -116,41 +120,48 @@
             // PrincipalLebel
             // 
             this.PrincipalLebel.AutoSize = true;
+            this.PrincipalLebel.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.PrincipalLebel.Location = new System.Drawing.Point(194, 115);
             this.PrincipalLebel.Name = "PrincipalLebel";
-            this.PrincipalLebel.Size = new System.Drawing.Size(75, 13);
+            this.PrincipalLebel.Size = new System.Drawing.Size(91, 13);
             this.PrincipalLebel.TabIndex = 8;
             this.PrincipalLebel.Text = "Principal (P): $";
             // 
             // RateLebel
             // 
             this.RateLebel.AutoSize = true;
+            this.RateLebel.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.RateLebel.Location = new System.Drawing.Point(197, 154);
             this.RateLebel.Name = "RateLebel";
-            this.RateLebel.Size = new System.Drawing.Size(61, 13);
+            this.RateLebel.Size = new System.Drawing.Size(72, 13);
             this.RateLebel.TabIndex = 9;
             this.RateLebel.Text = "Rate (R): %";
             // 
             // TimeLebel
             // 
             this.TimeLebel.AutoSize = true;
+            this.TimeLebel.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TimeLebel.Location = new System.Drawing.Point(210, 210);
             this.TimeLebel.Name = "TimeLebel";
-            this.TimeLebel.Size = new System.Drawing.Size(48, 13);
+            this.TimeLebel.Size = new System.Drawing.Size(58, 13);
             this.TimeLebel.TabIndex = 10;
             this.TimeLebel.Text = "Time (t) :";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.label1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(246, 171);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(48, 13);
+            this.label1.Size = new System.Drawing.Size(50, 15);
             this.label1.TabIndex = 12;
             this.label1.Text = "Per Year";
             // 
             // ClearButton
             // 
+            this.ClearButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ClearButton.Location = new System.Drawing.Point(292, 270);
             this.ClearButton.Name = "ClearButton";
             this.ClearButton.Size = new System.Drawing.Size(75, 23);
@@ -161,9 +172,10 @@
             // 
             // CalculateButton
             // 
-            this.CalculateButton.Location = new System.Drawing.Point(442, 270);
+            this.CalculateButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.CalculateButton.Location = new System.Drawing.Point(424, 270);
             this.CalculateButton.Name = "CalculateButton";
-            this.CalculateButton.Size = new System.Drawing.Size(75, 23);
+            this.CalculateButton.Size = new System.Drawing.Size(93, 23);
             this.CalculateButton.TabIndex = 14;
             this.CalculateButton.Text = "Calculate";
             this.CalculateButton.UseVisualStyleBackColor = true;
@@ -172,24 +184,41 @@
             // label3
             // 
             this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(292, 320);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(45, 13);
+            this.label3.Size = new System.Drawing.Size(52, 13);
             this.label3.TabIndex = 15;
             this.label3.Text = "Answer:";
             // 
             // ShowAnswerTextBox
             // 
             this.ShowAnswerTextBox.Location = new System.Drawing.Point(343, 320);
+            this.ShowAnswerTextBox.Multiline = true;
             this.ShowAnswerTextBox.Name = "ShowAnswerTextBox";
-            this.ShowAnswerTextBox.Size = new System.Drawing.Size(100, 20);
+            this.ShowAnswerTextBox.Size = new System.Drawing.Size(174, 42);
             this.ShowAnswerTextBox.TabIndex = 16;
+            // 
+            // label4
+            // 
+            this.label4.BackColor = System.Drawing.SystemColors.Highlight;
+            this.label4.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label4.ImageKey = "(none)";
+            this.label4.Location = new System.Drawing.Point(292, 20);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(225, 28);
+            this.label4.TabIndex = 17;
+            this.label4.Text = "Simple Interest Calculator";
+            this.label4.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // InterestCalculator
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label4);
             this.Controls.Add(this.ShowAnswerTextBox);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.CalculateButton);
@@ -232,6 +261,7 @@
         private System.Windows.Forms.Button CalculateButton;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox ShowAnswerTextBox;
+        private System.Windows.Forms.Label label4;
     }
 }
 

@@ -156,7 +156,13 @@ namespace interestClaculator
 
         private void ClearButton_Click(object sender, EventArgs e)
         {
-            
+            PrincipalTextBox.Clear();
+            RateTextBox.Clear();
+            TimeTextBox.Clear();
+            ShowFormulaLebel.Visible = false ;
+            formulaComboBox.Visible = false;
+            TimecomboBox.Visible = false;
+            ShowAnswerTextBox.Clear();
         }
     }
 }

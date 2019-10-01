@@ -1,0 +1,10 @@
+D:\c# code\Windows Apolication\interestClaculator\interestClaculator\bin\Debug\interestClaculator.exe.config
+D:\c# code\Windows Apolication\interestClaculator\interestClaculator\bin\Debug\interestClaculator.exe
+D:\c# code\Windows Apolication\interestClaculator\interestClaculator\bin\Debug\interestClaculator.pdb
+D:\c# code\Windows Apolication\interestClaculator\interestClaculator\obj\Debug\interestClaculator.csprojAssemblyReference.cache
+D:\c# code\Windows Apolication\interestClaculator\interestClaculator\obj\Debug\interestClaculator.InterestCalculator.resources
+D:\c# code\Windows Apolication\interestClaculator\interestClaculator\obj\Debug\interestClaculator.Properties.Resources.resources
+D:\c# code\Windows Apolication\interestClaculator\interestClaculator\obj\Debug\interestClaculator.csproj.GenerateResource.cache
+D:\c# code\Windows Apolication\interestClaculator\interestClaculator\obj\Debug\interestClaculator.csproj.CoreCompileInputs.cache
+D:\c# code\Windows Apolication\interestClaculator\interestClaculator\obj\Debug\interestClaculator.exe
+D:\c# code\Windows Apolication\interestClaculator\interestClaculator\obj\Debug\interestClaculator.pdb

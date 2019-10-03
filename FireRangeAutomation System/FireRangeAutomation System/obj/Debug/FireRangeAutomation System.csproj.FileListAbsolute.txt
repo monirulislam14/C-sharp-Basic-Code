@@ -1,0 +1,10 @@
+C:\Users\monirul islam\Desktop\FireRangeAutomation System\FireRangeAutomation System\bin\Debug\FireRangeAutomation System.exe.config
+C:\Users\monirul islam\Desktop\FireRangeAutomation System\FireRangeAutomation System\bin\Debug\FireRangeAutomation System.exe
+C:\Users\monirul islam\Desktop\FireRangeAutomation System\FireRangeAutomation System\bin\Debug\FireRangeAutomation System.pdb
+C:\Users\monirul islam\Desktop\FireRangeAutomation System\FireRangeAutomation System\obj\Debug\FireRangeAutomation System.csprojAssemblyReference.cache
+C:\Users\monirul islam\Desktop\FireRangeAutomation System\FireRangeAutomation System\obj\Debug\FireRangeAutomation_System.Form1.resources
+C:\Users\monirul islam\Desktop\FireRangeAutomation System\FireRangeAutomation System\obj\Debug\FireRangeAutomation_System.Properties.Resources.resources
+C:\Users\monirul islam\Desktop\FireRangeAutomation System\FireRangeAutomation System\obj\Debug\FireRangeAutomation System.csproj.GenerateResource.cache
+C:\Users\monirul islam\Desktop\FireRangeAutomation System\FireRangeAutomation System\obj\Debug\FireRangeAutomation System.csproj.CoreCompileInputs.cache
+C:\Users\monirul islam\Desktop\FireRangeAutomation System\FireRangeAutomation System\obj\Debug\FireRangeAutomation System.exe
+C:\Users\monirul islam\Desktop\FireRangeAutomation System\FireRangeAutomation System\obj\Debug\FireRangeAutomation System.pdb

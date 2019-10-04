@@ -213,8 +213,7 @@
             this.solderNoRadioButton.TabStop = true;
             this.solderNoRadioButton.Text = "Soldier No";
             this.solderNoRadioButton.UseVisualStyleBackColor = true;
-            this.solderNoRadioButton.CheckedChanged += new System.EventHandler(this.solderNoRadioButton1_CheckedChanged);
-            // 
+           
             // solderNameRadioButton
             // 
             this.solderNameRadioButton.AutoSize = true;
@@ -225,7 +224,7 @@
             this.solderNameRadioButton.TabStop = true;
             this.solderNameRadioButton.Text = "Soldier Name";
             this.solderNameRadioButton.UseVisualStyleBackColor = true;
-            this.solderNameRadioButton.CheckedChanged += new System.EventHandler(this.solderNameRadioButton_CheckedChanged);
+           
             // 
             // searchTextBox
             // 

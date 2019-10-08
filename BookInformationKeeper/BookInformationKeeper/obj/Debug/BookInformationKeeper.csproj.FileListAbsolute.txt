@@ -1,0 +1,20 @@
+D:\c# code\Windows Apolication\BookInformationKeeper\BookInformationKeeper\bin\Debug\BookInformationKeeper.exe.config
+D:\c# code\Windows Apolication\BookInformationKeeper\BookInformationKeeper\bin\Debug\BookInformationKeeper.exe
+D:\c# code\Windows Apolication\BookInformationKeeper\BookInformationKeeper\bin\Debug\BookInformationKeeper.pdb
+D:\c# code\Windows Apolication\BookInformationKeeper\BookInformationKeeper\obj\Debug\BookInformationKeeper.csprojAssemblyReference.cache
+D:\c# code\Windows Apolication\BookInformationKeeper\BookInformationKeeper\obj\Debug\BookInformationKeeper.Form1.resources
+D:\c# code\Windows Apolication\BookInformationKeeper\BookInformationKeeper\obj\Debug\BookInformationKeeper.Properties.Resources.resources
+D:\c# code\Windows Apolication\BookInformationKeeper\BookInformationKeeper\obj\Debug\BookInformationKeeper.csproj.GenerateResource.cache
+D:\c# code\Windows Apolication\BookInformationKeeper\BookInformationKeeper\obj\Debug\BookInformationKeeper.csproj.CoreCompileInputs.cache
+D:\c# code\Windows Apolication\BookInformationKeeper\BookInformationKeeper\obj\Debug\BookInformationKeeper.exe
+D:\c# code\Windows Apolication\BookInformationKeeper\BookInformationKeeper\obj\Debug\BookInformationKeeper.pdb
+C:\Users\monirul islam\Desktop\BookInformationKeeper\BookInformationKeeper\bin\Debug\BookInformationKeeper.exe.config
+C:\Users\monirul islam\Desktop\BookInformationKeeper\BookInformationKeeper\bin\Debug\BookInformationKeeper.exe
+C:\Users\monirul islam\Desktop\BookInformationKeeper\BookInformationKeeper\bin\Debug\BookInformationKeeper.pdb
+C:\Users\monirul islam\Desktop\BookInformationKeeper\BookInformationKeeper\obj\Debug\BookInformationKeeper.csprojAssemblyReference.cache
+C:\Users\monirul islam\Desktop\BookInformationKeeper\BookInformationKeeper\obj\Debug\BookInformationKeeper.Form1.resources
+C:\Users\monirul islam\Desktop\BookInformationKeeper\BookInformationKeeper\obj\Debug\BookInformationKeeper.Properties.Resources.resources
+C:\Users\monirul islam\Desktop\BookInformationKeeper\BookInformationKeeper\obj\Debug\BookInformationKeeper.csproj.GenerateResource.cache
+C:\Users\monirul islam\Desktop\BookInformationKeeper\BookInformationKeeper\obj\Debug\BookInformationKeeper.csproj.CoreCompileInputs.cache
+C:\Users\monirul islam\Desktop\BookInformationKeeper\BookInformationKeeper\obj\Debug\BookInformationKeeper.exe
+C:\Users\monirul islam\Desktop\BookInformationKeeper\BookInformationKeeper\obj\Debug\BookInformationKeeper.pdb

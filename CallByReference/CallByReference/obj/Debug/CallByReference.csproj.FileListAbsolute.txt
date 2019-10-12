@@ -1,0 +1,7 @@
+C:\Users\monirul islam\Desktop\CallByReference\CallByReference\bin\Debug\CallByReference.exe.config
+C:\Users\monirul islam\Desktop\CallByReference\CallByReference\bin\Debug\CallByReference.exe
+C:\Users\monirul islam\Desktop\CallByReference\CallByReference\bin\Debug\CallByReference.pdb
+C:\Users\monirul islam\Desktop\CallByReference\CallByReference\obj\Debug\CallByReference.csprojAssemblyReference.cache
+C:\Users\monirul islam\Desktop\CallByReference\CallByReference\obj\Debug\CallByReference.csproj.CoreCompileInputs.cache
+C:\Users\monirul islam\Desktop\CallByReference\CallByReference\obj\Debug\CallByReference.exe
+C:\Users\monirul islam\Desktop\CallByReference\CallByReference\obj\Debug\CallByReference.pdb

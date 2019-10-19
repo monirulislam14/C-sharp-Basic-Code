@@ -1,0 +1,7 @@
+D:\c# code\PersonProperty\PersonProperty\bin\Debug\PersonProperty.exe.config
+D:\c# code\PersonProperty\PersonProperty\bin\Debug\PersonProperty.exe
+D:\c# code\PersonProperty\PersonProperty\bin\Debug\PersonProperty.pdb
+D:\c# code\PersonProperty\PersonProperty\obj\Debug\PersonProperty.csprojAssemblyReference.cache
+D:\c# code\PersonProperty\PersonProperty\obj\Debug\PersonProperty.csproj.CoreCompileInputs.cache
+D:\c# code\PersonProperty\PersonProperty\obj\Debug\PersonProperty.exe
+D:\c# code\PersonProperty\PersonProperty\obj\Debug\PersonProperty.pdb
